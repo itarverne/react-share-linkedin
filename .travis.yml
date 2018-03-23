@@ -27,8 +27,8 @@ script:
 
 deploy:
   provider: npm
-  email: "drigaudie@yahoo.fr"
-  api_key: "ca1fcb0c-4ef5-4374-90c2-b80f9c8f7d56" ////////////////////HIDE
+  email: $NPM_EMAIL
+  api_key: $NPM_API_KEY
   on:
     tags: true
 

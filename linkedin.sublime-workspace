@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hide",
+				"hide-for-small-only"
+			],
+			[
+				"path-header-img-",
+				"path-header-img-large"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"col",
+				"color-bloc-light"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"pay",
+				"paypal"
+			],
+			[
+				"S",
+				"SUPPORT_EMAIL"
+			],
+			[
+				"Fres",
+				"FreshNotAvailable"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"Order",
+				"Order"
+			],
+			[
+				"deli",
+				"deliveries_date"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"tag",
+				"tagFilter"
+			],
+			[
+				"lal",
+				"lalocalerie"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"get",
+				"getDeliveryPrice"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"or",
+				"order_line"
+			],
+			[
+				"sk",
+				"skybillParamsValue"
+			],
+			[
+				"Sk",
+				"SkipValue"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"fres",
+				"fresh_delivery"
+			],
+			[
+				"fe",
+				"fresh_cost"
+			],
+			[
+				"es",
+				"eslint-disable-line"
+			],
+			[
+				"fresh",
+				"freshCost"
+			],
+			[
+				"cooler",
+				"cooler_cost"
+			],
+			[
+				"line",
+				"lines"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 215.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 653.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/utilisateur/Documents/Informatique/Projects/react-share-linkedin"
+	],
+	"file_history":
+	[
+		"/C/Users/utilisateur/Documents/Informatique/Projects/comptoirs-david.pem",
+		"/C/Users/utilisateur/.ssh/known_hosts",
+		"/C/Users/utilisateur/.ssh/OLDknown_hosts",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/commons/header.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/locales/en.json",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/locales/fr.json",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/scripts/react/main-react.jsx",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/commons/footer.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/package.json",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/scripts/main.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/scripts/main.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/templates/cookies.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/testyo/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/testyo/scripts/react/main-react.jsx",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/test/cookies.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/styles/main.scss",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/cookies.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/cgv.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/.travis.yml",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/sitemap.xml",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/testtest",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/taste.todo",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/testtest2",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/error.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/OLDindex.html",
+		"/C/Users/utilisateur/Desktop/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/public/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/en/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/build/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/en/public/index.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/scripts/react/main-react.jsx",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/README.md",
+		"/C/Users/utilisateur/Downloads/signature.html",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/scripts/helpers.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/Gruntfile.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/app/index.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/test/test-console.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/test/test.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/package.json",
+		"/C/Users/utilisateur/Documents/Informatique/chocolatey/packages.config",
+		"/C/Users/utilisateur/Desktop/DefaultController.php",
+		"/C/Users/utilisateur/Desktop/HomeController.php",
+		"/C/Users/utilisateur/Desktop/services.yml",
+		"/C/Users/utilisateur/Desktop/routing.yml",
+		"/C/Users/utilisateur/Desktop/config.yml",
+		"/C/Users/utilisateur/Desktop/config_prod.yml",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/node_modules/sitemap/lib/sitemap.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/node_modules/sitemap/index.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/par.html",
+		"/C/Users/utilisateur/Desktop/layout.html.twig",
+		"/C/Users/utilisateur/Desktop/article.html.twig",
+		"/C/Users/utilisateur/Desktop/ArticleController.php",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/build/scripts/ITArverne.min.73cd0242.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/node_modules/outdatedbrowser/outdatedbrowser/outdatedbrowser.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/tmp/scripts/bundle-require.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/node_modules/current-device/package.json",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/tmp/scripts/main.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/tmp/styles/scss.css",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/tmp/scripts/index.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/node_modules/current-device/lib/index.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/build/scripts/ITArverne.min.42cfc4f7.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/tmp/scripts/react/main-react.js",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/qrcodify/.travis.yml",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/qrcodify/README.md",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/public/robots.txt",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/.gitignore",
+		"/C/Users/utilisateur/.unison/david.prf",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/qrcodify/.gitignore",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/qrcodify/bin/com/itarverne/qrcode/test.class",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/.git/description",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/.git/HEAD",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/.git/config",
+		"/C/Users/utilisateur/Documents/before_change_format",
+		"//partage/samba-partage/Logiciels/applications_win10/README.md",
+		"/C/workspace/localerie-auv/server/taste/api/management/commands/create_deliveries.py",
+		"/C/workspace/localerie-auv/web/pages/order.js",
+		"/C/workspace/localerie-auv/web/components/ui/DeliveryDatePickerDetail.js",
+		"/C/workspace/localerie-auv/web/actions/auth.js",
+		"/C/workspace/localerie-auv/web/config/index.js",
+		"/C/workspace/localerie-auv/web/actions/cart.js",
+		"/C/Users/utilisateur/Downloads/test.reg",
+		"/C/Users/utilisateur/Documents/Informatique/chocolatey/install-app-server.bat",
+		"/C/workspace/localerie-auv/server/taste/api/payment/methods.py",
+		"/C/workspace/localerie-auv/server/taste/api/order/views.py",
+		"/C/workspace/localerie-auv/server/taste/api/invoice/views.py",
+		"/C/Users/utilisateur/Documents/Informatique/Projects/generator-itarverne-landing-page/README",
+		"/C/workspace/localerie-auv/web/components/cart/Cart.js",
+		"/C/workspace/localerie-auv/server/taste/api/cart/models.py",
+		"/C/workspace/localerie-auv/server/taste/api/delivery/models.py",
+		"/C/workspace/localerie-auv/server/taste/api/cart/views.py",
+		"/C/workspace/localerie-auv/web/selectors/auth.js",
+		"/C/workspace/localerie-auv/web/actions/order.js",
+		"/C/workspace/localerie-auv/web/components/order/OrderPage.js",
+		"/C/workspace/localerie-auv/web/pages/thanks.js",
+		"/C/Users/utilisateur/contacts.csv",
+		"/C/workspace/localerie-auv/web/components/account/sections/Orders.js",
+		"/C/workspace/localerie-auv/server/taste/api/order/models.py",
+		"/C/workspace/localerie-auv/server/taste/api/order/serializers.py",
+		"/C/workspace/localerie-auv/server/taste/api/order/admin.py",
+		"/C/workspace/localerie-auv/web/components/products/ProductCard.js",
+		"/C/workspace/localerie-auv/web/components/products/ProductDetailsPage.js",
+		"/C/workspace/localerie-auv/web/pages/index.js",
+		"/C/workspace/localerie-auv/web/components/products/ProductSlider.js",
+		"/C/workspace/localerie-auv/scripts/stayAlive.sh",
+		"/C/workspace/localerie-auv/server/taste/api/delivery/views.py",
+		"/C/workspace/localerie-auv/server/taste/api/cart/serializers.py",
+		"/C/workspace/localerie-auv/server/taste/settings/prod.py",
+		"/C/workspace/localerie-auv/server/taste/settings/dev.py",
+		"/C/workspace/localerie-auv/server/taste/api/delivery/serializers.py",
+		"/C/workspace/localerie-auv/server/taste/api/delivery/admin.py",
+		"/C/workspace/localerie-auv/web/lib/init.js",
+		"/C/workspace/localerie-auv/server/taste/settings/base.py",
+		"/C/workspace/localerie-auv/web/components/products/ProductSearch.js",
+		"/C/workspace/localerie-auv/server/taste/api/catalog/models.py",
+		"/C/workspace/localerie-auv/server/taste/api/catalog/serializers.py",
+		"/C/workspace/localerie-auv/web/components/products/ProductRating.js",
+		"/C/workspace/localerie-auv/web/components/products/AllProductsPage.js",
+		"/C/workspace/localerie-auv/server/taste/api/catalog/views.py",
+		"/C/workspace/localerie-auv/web/components/tribus/TribuDetailsPage.js",
+		"/C/workspace/localerie-auv/web/components/home/HomeSlider.js",
+		"/C/workspace/localerie-auv/server/taste/api/localerie/serializers.py",
+		"/C/workspace/localerie-auv/web/actions/localerie.js",
+		"/C/workspace/localerie-auv/web/.eslintrc",
+		"/C/Users/utilisateur/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/utilisateur/Downloads/Packages/User/Preferences.sublime-settings",
+		"/C/Users/utilisateur/Downloads/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 290.0
+	},
+	"output.exec":
+	{
+		"height": 351.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linkedin.sublime-project",
+	"replace":
+	{
+		"height": 77.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"web\\actions\\order.js"
+			],
+			[
+				"prod.p",
+				"server\\taste\\settings\\prod.py"
+			],
+			[
+				"dev",
+				"server\\taste\\settings\\dev.py"
+			],
+			[
+				"base",
+				"server\\taste\\settings\\base.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1005.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
