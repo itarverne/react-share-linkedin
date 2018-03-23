@@ -1,0 +1,36 @@
+language: node_js
+
+node_js:
+  - "8"
+  - "9"
+
+env:
+  global:
+    - CC_TEST_REPORTER_ID=$CODECLIMATE_REPORTER_ID
+
+branches:
+  except:
+  - experimental
+
+cache:
+  directories:
+  - "node_modules"
+
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+  - travis encrypt TOKEN_NPM --add deploy.api_key
+
+script:
+  - npm test
+
+deploy:
+  provider: npm
+  email: "drigaudie@yahoo.fr"
+  api_key: "ca1fcb0c-4ef5-4374-90c2-b80f9c8f7d56" ////////////////////HIDE
+  on:
+    tags: true
+
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT

@@ -1,0 +1,26 @@
+.linkedin {
+  background-color: #0077b5;
+  width: 70px;
+}
+
+.linkedin__logo{
+  color: white;
+  margin: 5px;
+  font-family: "SourceSansPro-Semibold";
+}
+
+.linkedin__link{
+  color: white;
+  text-decoration: none;
+  font-family: "SourceSansPro-Regular";
+}
+
+@font-face {
+  font-family: "SourceSansPro-Semibold";
+  src: url("fonts/Source Sans Pro/SourceSansPro-Semibold.ttf");
+}
+
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("fonts/Source Sans Pro/SourceSansPro-Regular.ttf");
+}

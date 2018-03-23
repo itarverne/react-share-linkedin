@@ -1,0 +1,33 @@
+{
+  "name": "react-share-linkedin",
+  "version": "0.1.0",
+  "description": "React component allow to share data on LinkedIn",
+  "license": "MIT",
+  "author": "RIGAUDIE David",
+  "homepage": "http://itarverne.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itarverne/react-share-linkedin.git"
+  },
+  "keywords": [
+    "react",
+    "linkedin",
+    "button"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "bugs": {
+    "url": "https://github.com/itarverne/react-share-linkedin/issues"
+  },
+  "main": "index.js",
+  "devDependencies": {}
+}
