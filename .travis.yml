@@ -21,7 +21,7 @@ before_script:
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
   - gem install travis
-  - travis login --github-token $NPM_API_KEY
+  - travis login --pro
   - travis encrypt $NPM_API_KEY --add deploy.api_key
 
 script:
