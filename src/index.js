@@ -9,7 +9,7 @@ ReactDOM.render(
 		url="http://itarverne.com"
 		title="The web developer expert in Auvergne"
 		summary="The web developer expert in Auvergne"
-		color="black"
+		backgroundColor="black"
 		borderRadius="3px"
 	/>
 	, document.getElementById('root'));

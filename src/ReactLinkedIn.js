@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-const linkedin = {
-  backgroundColor: '#0077b5',
+let linkedin = {
   width: '70px'
 }
 
@@ -30,10 +29,21 @@ title=${this.props.title}&\
 summary=${this.props.summary}&\
 source=LinkedIn`);
 
-    let linkedinWithParam = Object.assign(linkedin, {
-      'backgroundColor': this.props.color,
-      'borderRadius': this.props.borderRadius
-    });
+    let customParamStyles = {
+      'backgroundColor': 
+        (this.props.backgroundColor)
+          ? 
+        this.props.backgroundColor 
+          : 
+        '#0077b5',
+      'borderRadius': 
+        (this.props.borderRadius) 
+          ? 
+        this.props.borderRadius
+          : 
+        'none'
+    };
+    const linkedinWithParam = Object.assign({}, linkedin, customParamStyles);
 
     return (
       <div style={linkedinWithParam}>
