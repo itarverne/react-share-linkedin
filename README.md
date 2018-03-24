@@ -12,6 +12,17 @@ React component allow to share data on LinkedIn
 npm install react-share-linkedin --save
 ```
 
+And put this in your view
+```
+import ReactLinkedIn from 'react-share-linkedin';
+
+<ReactLinkedIn 
+	url="http://itarverne.com"
+	title="The web developer expert in Auvergne"
+	summary="The web developer expert in Auvergne"
+/>
+```
+
 # Usage
 
 ```
