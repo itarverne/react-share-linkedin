@@ -9,7 +9,7 @@ React component allow to share data on LinkedIn
 # Install
 
 ```
-npm i react-share-linkedin
+npm install react-share-linkedin --save
 ```
 
 # Usage
