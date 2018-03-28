@@ -45,9 +45,20 @@ source=LinkedIn`);
     };
     const linkedinWithParam = Object.assign({}, linkedin, customParamStyles);
 
+    const handleClick = (e) => {
+      e.preventDefault();
+      window.open(
+        urlEncoded,
+        '_blank',
+        'width=550,height=431,location=no,menubar=no,scrollbars=no,status=no,toolbar=no'
+      );
+      return false;
+    }
+
     return (
       <div style={linkedinWithParam}>
-        <a href={urlEncoded} target="_blank" rel="noopener" style={linkedin__link} >
+        <a href="#" rel="noopener" style={linkedin__link}
+           onClick={handleClick} >
 	      	<span style={linkedin__logo}>IN</span>
 	      	<span>Share</span>
 	      </a>
