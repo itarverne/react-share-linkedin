@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import ReactLinkedIn from './ReactLinkedIn';
+import ShareLinkedin from './ShareLinkedin';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
-	<ReactLinkedIn 
+	<ShareLinkedin 
 		url="http://itarverne.com"
 		title="The web developer expert in Auvergne"
 		summary="The web developer expert in Auvergne"

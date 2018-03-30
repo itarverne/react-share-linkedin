@@ -19,7 +19,7 @@ const linkedin__link = {
   src: 'url(fonts/Source Sans Pro/SourceSansPro-Regular.ttf)'
 }
 
-class ReactLinkedIn extends Component {
+class ShareLinkedin extends Component {
 
   render() {
   	let urlEncoded = encodeURI(`https://www.linkedin.com/shareArticle?\
@@ -67,8 +67,8 @@ source=LinkedIn`);
   }
 }
 
-ReactLinkedIn.propTypes = {
+ShareLinkedin.propTypes = {
   url: PropTypes.string.isRequired
 };
 
-export default ReactLinkedIn;
+export default ShareLinkedin;

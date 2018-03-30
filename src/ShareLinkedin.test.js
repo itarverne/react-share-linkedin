@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ReactLinkedIn from './ReactLinkedIn';
+import ShareLinkedin from './ShareLinkedin';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');
   ReactDOM.render(
-    <ReactLinkedIn 
+    <ShareLinkedin 
       url="http://itarverne.com"
       title="The web developer expert in Auvergne"
       summary="The web developer expert in Auvergne"
@@ -16,7 +16,7 @@ it('renders without crashing', () => {
 it('renders with optionnal attr', () => {
   const div = document.createElement('div');
   ReactDOM.render(
-    <ReactLinkedIn 
+    <ShareLinkedin 
       url="http://itarverne.com"
       title="The web developer expert in Auvergne"
       summary="The web developer expert in Auvergne"

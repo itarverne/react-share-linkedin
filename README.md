@@ -14,9 +14,9 @@ npm install react-share-linkedin --save
 
 And put this in your view
 ```
-import ReactLinkedIn from 'react-share-linkedin';
+import ShareLinkedin from 'react-share-linkedin';
 
-<ReactLinkedIn 
+<ShareLinkedin 
 	url="http://itarverne.com"
 	title="The web developer expert in Auvergne"
 	summary="The web developer expert in Auvergne"
